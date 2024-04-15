@@ -1,0 +1,104 @@
+VisitID,Name,Age,Sex,Visit Date,Diagnosis
+2438,Daniel Woodward,37,F,2023-09-04,Flu
+2166,Terry Long,40,M,2023-10-26,Diabetes
+2657,Brandon Hanna,98,F,2023-05-07,Diabetes
+2903,Jennifer Torres,21,F,2024-03-15,Asthma
+2275,Kimberly Savage DVM,67,M,2024-01-09,Migraine
+2567,Hannah Jackson,66,F,2023-11-02,Asthma
+2030,Barbara Perez,45,M,2024-01-12,Asthma
+2736,Michael Butler,42,F,2023-05-11,High Blood Pressure
+2296,Lisa Miller,6,M,2023-10-06,Migraine
+2388,Dillon Williams,47,M,2023-04-20,High Blood Pressure
+2727,John Mcpherson,86,M,2023-07-15,Asthma
+2529,Mandy Mendez,73,F,2023-12-09,Flu
+2808,Pamela Leon,26,F,2024-02-09,Diabetes
+2358,Megan Martinez,35,F,2024-03-25,Diabetes
+2575,David Rodriguez,58,M,2023-05-16,Migraine
+2298,Jonathan Hansen,32,F,2023-05-27,Diabetes
+2514,Fernando Vargas,22,F,2023-11-01,Migraine
+2710,Michele Davis,17,F,2023-05-14,High Blood Pressure
+2549,Rebecca Wilcox,29,M,2023-08-14,Migraine
+2391,Tammy Parsons,13,F,2024-03-28,Asthma
+2563,Amy Mathis,97,F,2024-01-29,Migraine
+2924,John Anderson,83,M,2024-04-03,Asthma
+2865,Michael Chavez,75,F,2024-02-03,Asthma
+2829,Michael Jones,27,F,2023-05-20,Migraine
+2085,Gregory Vega,40,F,2023-09-28,Diabetes
+2765,Christopher Whitaker,39,M,2023-11-08,Migraine
+2840,Victoria Gordon,42,M,2023-05-26,Asthma
+2783,Lindsey Singleton,53,F,2024-01-16,Flu
+2137,Kenneth Paul,74,M,2024-03-27,High Blood Pressure
+2292,Lindsey Johnson,3,M,2023-10-18,Asthma
+2890,Mary Mann,25,M,2023-12-25,Migraine
+2524,Russell Rios,70,M,2023-09-07,Flu
+2243,Philip Marsh,28,F,2023-11-18,High Blood Pressure
+2099,Kristen Carter,89,F,2023-06-06,Diabetes
+2671,Kristopher Perez,54,M,2024-02-01,Diabetes
+2392,Anita Haley,72,F,2023-08-03,Flu
+2343,Ashley Harper,42,F,2023-08-30,Asthma
+2823,Guy Ferguson,60,F,2023-12-14,Flu
+2119,David White,97,M,2023-06-26,Migraine
+2293,Jennifer Archer,52,F,2023-12-21,Asthma
+2787,Ashley Dawson,63,F,2023-12-28,Migraine
+2439,Lindsay Riddle,29,M,2023-07-22,Migraine
+2155,Donald Rodriguez,86,M,2023-12-10,Asthma
+2284,Christopher Alvarado,91,M,2023-04-21,Asthma
+2615,Christina Barrett,65,F,2023-10-15,Diabetes
+2003,Heather Jenkins,19,F,2024-02-21,High Blood Pressure
+2364,Bonnie Ayala,15,M,2023-12-17,Asthma
+2022,Samuel Golden,45,F,2023-11-28,Migraine
+2072,Melissa Johnson,56,M,2023-04-28,Flu
+2443,Jennifer Fields,1,F,2023-06-22,Diabetes
+2957,Patrick Stevens,20,M,2023-12-01,Asthma
+2079,Leslie Cameron,89,M,2023-04-17,Flu
+2772,Michael Griffin,46,M,2023-07-16,Flu
+2706,Rebecca Walsh,9,F,2023-12-12,High Blood Pressure
+2331,Angela Rose,6,M,2023-06-13,Migraine
+2751,Shannon White,30,M,2023-10-05,High Blood Pressure
+2225,Rachel Howard,94,M,2024-02-03,Diabetes
+2016,Colleen Wilson,91,F,2023-11-21,Asthma
+2341,April Mcdaniel,98,M,2023-06-23,High Blood Pressure
+2383,Sarah Bray,43,F,2023-09-17,High Blood Pressure
+2005,Gregory Smith,35,M,2024-03-10,Flu
+2868,Sherry Potts,79,M,2024-03-31,Asthma
+2088,Debra Arellano,75,M,2023-06-30,Flu
+2209,Kenneth Jensen,100,F,2023-05-10,Flu
+2120,Alicia Rowe,61,F,2023-08-11,High Blood Pressure
+2623,George Ortega,35,M,2024-01-17,Flu
+2933,Matthew Maxwell,41,M,2023-10-12,Flu
+2180,Molly Sherman,17,M,2023-11-02,Diabetes
+2577,Nancy Herrera,47,F,2024-04-07,Asthma
+2351,David Lozano,66,F,2023-04-21,Asthma
+2234,Mark Booker,29,F,2023-05-20,Diabetes
+2344,Scott Garza,83,F,2023-07-24,Flu
+2147,Noah Foster,42,F,2024-04-12,Asthma
+2630,Karen Ford,54,M,2024-01-15,Migraine
+2572,Patrick Wallace,41,F,2023-07-05,Asthma
+2643,David Holland,42,M,2023-11-24,Asthma
+2469,Kimberly Jordan,76,F,2024-02-08,Diabetes
+2685,Christian Bell,49,M,2024-01-13,Migraine
+2160,Brenda Schneider,87,M,2023-11-13,Asthma
+2715,Stacy Coleman,80,F,2023-08-12,Asthma
+2753,Breanna Chambers,27,F,2023-12-30,Diabetes
+2063,Maria Sandoval,91,F,2023-09-07,Asthma
+2579,Melanie Jimenez,65,F,2023-11-01,Migraine
+2863,Kristen Martinez,72,F,2024-02-26,Diabetes
+2233,Sabrina Morgan,15,F,2023-05-30,Migraine
+2649,Nicole Guerrero,26,M,2023-09-17,Migraine
+2719,Kimberly Case DDS,80,F,2024-02-06,Flu
+2788,Charles Hughes,9,M,2023-06-25,Migraine
+2081,Adam Williams,41,F,2024-01-27,Flu
+2891,Karen Jones,46,M,2023-10-10,High Blood Pressure
+2505,Justin Nelson,11,M,2023-10-16,Flu
+2728,Kristi Owen,65,M,2023-07-04,High Blood Pressure
+2771,David Saunders,40,M,2023-10-10,Asthma
+2561,Anna Bates,87,F,2023-06-29,Migraine
+2644,David Cross,98,M,2023-12-30,Asthma
+2627,James Harrington,91,F,2023-12-13,Diabetes
+2020,Kenneth Miller,23,M,2024-03-03,Diabetes
+1912,Jason Henderson,20,F,2023-05-28,Back Pain
+1594,Michael Yoder,10,F,2023-09-05,Back Pain
+1524,Sherry Kim,56,F,2023-09-10,Headache
+1068,Robert Perez,45,F,2023-05-20,Allergy
+1980,Blake Flores,37,F,2023-06-19,Flu
+1128,Stacey Ellis,55,M,2023-09-10,Broken Arm
